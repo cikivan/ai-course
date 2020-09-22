@@ -9,7 +9,7 @@ Welcome to the web page of the class **Artificial Intelligence** at the Technica
  
 |        **Week**        |            **Mode/Group**            | **Lecture** |    **Lab**   |
 |:----------------------:|:------------------------------------:|:-----------:|:------------:|
-|  Week 1<br>21.9-27.09  |                Online                |    Link 1   | Introduction |
+|  Week 1<br>21.9-27.09  |                Online                |    [Link 1](1_week/)   | Introduction |
 |   Week 2<br>28.9-4.10  | Group-1-7:30 Group-2-10:50(1st half) |    Link 2   |              |
 |  Week 3<br>5.10-11.10  | Group-1-FREE Group-2-10:50(2nd half) |    Link 3   |              |
 |  Week 4<br>12.10-18.10 |                Online                |    Link 4   |              |
