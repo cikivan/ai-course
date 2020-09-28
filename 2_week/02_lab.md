@@ -83,6 +83,37 @@ But in the case of solving a puzzle or topological sorting (i.e., cases where th
 [DFS and BFS in Maze](https://clementmihailescu.github.io/Pathfinding-Visualizer/#)
 
 [comment]: <> (Hamilton)
+
+## Hamilton Circuits and the Traveling Salesman Problem
+
+Hamiltonian paths and circuits are named for William Rowan Hamilton who studied them in the 1800's. Sometimes you will see them referred to simply as Hamilton paths and circuits.
+
+**A Hamiltonian circuit** is a circuit that visits every vertex once with no repeats. Being a circuit, it must start and end at the same vertex.
+
+**A Hamiltonian path** also visits every vertex once with no repeats, but does not have to start and end at the same vertex.
+
+### Example 1
+
+One Hamiltonian circuit is shown on the graph below. There are several other Hamiltonian circuits possible on this graph. Notice that the circuit only has to visit every vertex once; it does not need to use every edge.
+
+![Hamilton](hamilton1.png)
+
+This circuit could be notated by the sequence of vertices visited, starting and ending at the same vertex: ABFGCDHMLKJEA. Notice that the same circuit could be written in reverse order, or starting and ending at a different vertex.
+
+### Example 2
+
+Does a Hamiltonian path or circuit exist on the graph below?
+
+![Hamilton](hamilton2.png)
+
+We can see that once we travel to vertex E there is no way to leave without returning to C, so there is no possibility of a Hamiltonian circuit. If we start at vertex E we can find several Hamiltonian paths, such as ECDAB and ECABD.
+
+With Hamiltonian circuits, our focus will not be on existence, but on the question of optimization; given a graph where the edges have weights, can we find the optimal Hamiltonian circuit; the one with lowest total weight.
+
+**Traveling salesman problem (TSP):**  Suppose a salesman needs to give sales pitches in five cities. He looks up the airfares between each city, and puts the costs in a graph. In what order should he travel to visit each city once then return home with the lowest cost? A situation like this could be represented with the graph shown.
+
+![Problem](graph.png)
+
 ## First assigment: Overview of Artificial Intelligence applications
 
 ### Informations
