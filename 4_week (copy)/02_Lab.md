@@ -92,11 +92,3 @@ Demonstration in python.
 
 Majme daný orezaný stavový priestor. Vygenerujte preň strom hľadania pre neinformované hľadanie do hĺbky a do šírky a porovnajte výsledky. Počiatočný stav je (0,0) a koncový (0,2).
 
-
-
-**[LISP solution](http://people.tuke.sk/marian.mach/plaintexts/slepe_lsp)**
-
-**Bonus**: Navrhnite riešenie v LISP-e riešenie nasledujúceho problému. Gazda sa vracia z trhu, kde kúpil kozu, vlka a kapustu. Na ceste domov sa musí preplaviť cez rieku. Jeho loďka je malá, a preto môže na ňu so sebou vziať iba jednu z troch vecí. Na brehu nemôžu zostať koza a kapusta (pretože by ju koza zjedla), ani koza s vlkom (pretože by vlk zjedol kozu). Ako dostane všetko bez ujmy na druhý breh? Počiatočný stav berme ako (0 0 0 0), v poradí vlk,koza, kapusta a gazda. Požadovaný konečný stav teda bude (1 1 1 1).
-
-**[Online LISP compiler](https://rextester.com/l/common_lisp_online_compiler)**
-
