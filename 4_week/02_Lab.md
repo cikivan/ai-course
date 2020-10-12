@@ -23,7 +23,7 @@ Instead of moving the tiles in the empty space, we can visualize moving the empt
 
 The empty space cannot move diagonally and can take **only one step at** a time (i.e. move the empty space one position at a time).
 
-You can read more about solving the 8-Puzzle problem [here.](https://blog.goodaudience.com/solving-8-puzzle-using-a-algorithm-7b509c331288)
+You can read more about solving the 8-Puzzle problem [here.](https://www.geeksforgeeks.org/8-puzzle-problem-using-branch-and-bound/)
 
 ## Heuristic Search ##
 
