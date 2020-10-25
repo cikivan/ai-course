@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"datetime",
+				"datetime"
+			],
+			[
+				"date",
+				"date_posted"
+			],
+			[
+				"sql",
+				"SQLAlchemy"
+			],
+			[
+				"text",
+				"text-muted"
+			],
+			[
+				"E",
+				"EqualTo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cv_python.py",
+			"settings":
+			{
+				"buffer_size": 4117,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"Build With: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ajvn/Desktop/sublimetext/webapp_tutorial/forms.py",
+		"/C/Users/Ajvn/Desktop/sublimetext/webapp_tutorial/routes.py",
+		"/C/Users/Ajvn/Desktop/sublimetext/run.py",
+		"/C/Users/Ajvn/Desktop/all-in-one-wp-migration-file-extension/constants.php",
+		"/C/Users/Ajvn/Desktop/School/UI_2019/Planning_Project_1_Sanchit (1)/Planning_Project_1/8_Puzzle_Solver.py",
+		"/C/Users/Ajvn/Desktop/sublimetext/webapp_tutorial/models.py",
+		"/C/Users/Ajvn/Desktop/sublimetext/webapp_tutorial/__init__.py",
+		"/C/Users/Ajvn/Desktop/sublimetext/webapp_tutorial/test.py",
+		"/C/Users/Ajvn/Desktop/sublimetext/webapp_tutorial.py",
+		"/C/Users/Ajvn/Desktop/sublimetext/models.py",
+		"/C/Users/Ajvn/Desktop/sublimetext/conflationNN.py",
+		"/D/Emotion_project_FINAL/nnConflation/nnConflation",
+		"/C/Users/Ajvn/Desktop/sublimetext/templates/home.html",
+		"/C/Users/Ajvn/Desktop/sublimetext/static/main.css",
+		"/C/Users/Ajvn/Desktop/sublimetext/Table (1).tgn",
+		"/C/Users/Ajvn/Desktop/sublimetext/forms.py",
+		"/C/Users/Ajvn/Desktop/sublimetext/templates/login.html",
+		"/C/Users/Ajvn/Desktop/sublimetext/templates/register.html",
+		"/C/Users/Ajvn/Desktop/sublimetext/templates/layout.html",
+		"/C/Users/Ajvn/Desktop/dbscript",
+		"/C/Users/Ajvn/Desktop/sublimetext/scriptDB.py",
+		"/D/Emotion_project_FINAL/scripts/api_caller.py",
+		"/C/Users/Ajvn/Documents/GitHub/emotion-comparison/scripts/api_caller.py",
+		"/D/Emotion_project_FINAL/old-scripts/neural_network.py",
+		"/C/Users/Ajvn/Desktop/sublimetext/templates/about.html",
+		"/C/Users/Ajvn/Desktop/sublimetext/projectInfo.txt",
+		"/C/Users/Ajvn/Desktop/sublimetext/waeawe.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"validate_on_submit",
+			"flaskblog"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cv_python.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 403.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "cvicenie_math.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
