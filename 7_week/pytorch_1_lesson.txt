@@ -1,0 +1,12 @@
+############################ 1ST LAB ############################
+Basic algebra
+y = 2x +1
+y = 2(2x + 1 ) = 4x +2
+Basic differentation
+(2x +1)^2
+2(2x+ 1)
+
+
+conda prompt :
+conda install package			-install package
+conda list | grep pandas		-print info about specific package
