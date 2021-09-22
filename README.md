@@ -8,21 +8,21 @@ Welcome to the web page of the class **Artificial Intelligence** at the Technica
  - [MEng. Dominik Vranay](http://www.cloudai.sk/people-dominikvranay/)
 
 
-|       **Week**      |            **Mode/Group**            |    **Lecture**    |            **Lab**           |
-|:-------------------:|:------------------------------------:|:-----------------:|:----------------------------:|
-|  Week 1 20.9-26.09  |                Online                | [Link 1](1_week/) |         Introduction         |
-|   Week 2 27.9-3.10  |                Online                |       Link 2      |                              |
-|  Week 3 4.10-10.10  |                Online                |       Link 3      |                              |
-|  Week 4 11.10-17.10 |                Online                |       Link 4      |                              |
-|  Week 5 18.10-24.10 | Group-1-7:30 Group-2-10:50(1st half) |       Link 5      |                              |
-|  Week 6 25.10-31.10  | Group-1-FREE Group-2-10:50(2nd half) |       Link 6      | **SEND MORE MONEY DEADLINE** |
-|   Week 7 1.11-7.11  |                Online                |       Link 7      |      **ESSAY DEADLINE**      |
-|  Week 8 8.11-14.11  | Group-1-7:30 Group-2-10:50(1st half) |       Link 8      |                              |
-|  Week 9 15.11-21.11 | Group-1-FREE Group-2-10:50(2nd half) |       Link 9      |                              |
-| Week 10 22.11-28.11 |                Online                |      Link 10      |                              |
-|  Week 11 29.11-5.12 | Group-1-7:30 Group-2-10:50(1st half) |      Link 11      |                              |
-|  Week 12 6.12-12.12 | Group-1-FREE Group-2-10:50(2nd half) |      Link 12      |                              |
-| Week 13 13.12-19.12 |                Online                |      Link 13      |                              |
+|       **Week**      |            **Lab**           |
+|:-------------------:|:----------------------------:|
+|  Week 1 20.9-26.09  |         Introduction         |
+|   Week 2 27.9-3.10  |            BFS/DFS           |
+|  Week 3 4.10-10.10  |            Python            |
+|  Week 4 11.10-17.10 |        Heuristic Search      |
+|  Week 5 18.10-24.10 |         Math in Python       |
+|  Week 6 25.10-31.10 | **SEND MORE MONEY DEADLINE** |
+|   Week 7 1.11-7.11  |      **ESSAY DEADLINE**      |
+|  Week 8 8.11-14.11  |    Gradient Visualization    |
+|  Week 9 15.11-21.11 |           Pytorch            |
+| Week 10 22.11-28.11 |      Logistic Regression     |
+|  Week 11 29.11-5.12 |        Neural Networks       |
+|  Week 12 6.12-12.12 |                              |
+| Week 13 13.12-19.12 |                              |
 
 ## How to pass?
 1. Attendance at lectures and labs (at most 3 absences at each)
